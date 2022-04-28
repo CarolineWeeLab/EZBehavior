@@ -1,7 +1,7 @@
 # EZBehavior
 Analysis of light-dark choice and sleep / locomotor data from larval zebrafish
 
-Disclaimer: You may encounter "Security Warning" in Excel. Just click "Enable Content" so that the Excel VBA codes can be run in your Excel environment.
+Disclaimer: You may encounter "Security Warning" when opening the macro-enabled files in Excel. Just click "Enable Content" so that the Excel VBA codes can be run in your Excel environment.
 
 1. Light-dark choice assay
     
@@ -14,8 +14,10 @@ Disclaimer: You may encounter "Security Warning" in Excel. Just click "Enable Co
     Step-4: Follow the examples in the Meta-analysis.xlsm to conduct the aggregation.
 
 2. Sleep/locomotor data
-    
-    Step-1: Use the SleepData_Template_v5.63 to analyze the example sleep raw data files
+
+    Preparation: Download the zipped example raw Excel files and unzip all the them. Put all the files in the same folder with the v5.63.xlsm file.    
+
+    Step-1: Use the SleepData_Template_v5.63.xlsm to analyze the example sleep raw data files
     
     Step-2: In the Setting sheet, Key in 1)Experiment Name in cell-X13 2)Group names in cells-Y16-Y27 for up to 12 different groups 3)Number of groups in cell-U15.
     
