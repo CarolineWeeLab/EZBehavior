@@ -1,6 +1,8 @@
 # EZBehavior
 Analysis of light-dark choice and sleep / locomotor data from larval zebrafish
 
+Disclaimer: You may encounter "Security Warning" in Excel. Just click "Enable Content" so that the Excel VBA codes can be run in your Excel environment.
+
 1. Light-dark choice assay
     
     Step-1: Reuse the Mid_Corrected.xlsm file (version 1.5x), click "Clear" in the "Setting" sheet. Put this file with the raw Excel files - "--.xls" in the same folder.
