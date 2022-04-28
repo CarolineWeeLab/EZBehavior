@@ -15,7 +15,7 @@ Disclaimer: You may encounter "Security Warning" when opening the macro-enabled 
 
 2. Sleep/locomotor data
 
-    Preparation: Download the zipped example raw Excel files and unzip all the them. Put all the files in the same folder with the v5.63.xlsm file.    
+    Preparation: Download the zipped example raw Excel files and unzip all the them (n=48 files). Put all the files in the same folder with the v5.63.xlsm file.    
 
     Step-1: Use the SleepData_Template_v5.63.xlsm to analyze the example sleep raw data files
     
