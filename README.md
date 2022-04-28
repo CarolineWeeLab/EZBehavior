@@ -3,8 +3,11 @@ Analysis of light-dark choice and sleep / locomotor data from larval zebrafish
 
 1. Light-dark choice assay
     Step-1: Reuse the Mid_Corrected.xlsm file (version 1.5x), click "Clear" in the "Setting" sheet. Put this file with the raw Excel files - "--.xls" in the same folder.
+    
     Step-2: Click "List & Analyze All" button to analyze the raw data files.
+    
     Step-3: Once all the raw data files are analyzed, use the Meta-analysis.xlsm file (version 1.3a) to aggregate all the data together.
+    
     Step-4: Follow the examples in the Meta-analysis.xlsm to conduct the aggregation.
 
 2. Sleep/locomotor data
